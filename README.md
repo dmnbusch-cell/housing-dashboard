@@ -90,7 +90,7 @@ Rules:
 - Chicago, IL — City of Chicago, Affordable Rental Housing Developments
   (s6ha-ppgi), current inventory, no dates in the source.
 - Los Angeles, CA — LAHD Affordable Housing Projects List, 2003 to Present
-  (mymu-zi3s), by funding date.
+  (mymu-zi3s), by funding date; earliest funded projects 2000.
 
 San Francisco is still open: no affordable-housing dataset turned up in
 its open-data catalog under that name; a "housing pipeline" or
